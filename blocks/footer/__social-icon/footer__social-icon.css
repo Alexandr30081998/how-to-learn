@@ -1,0 +1,20 @@
+.footer__social-icon {
+  background-image: url(../../../images/youtube-icon.svg);
+  background-size: contain;
+  display: flex;
+  width: 16px;
+  height:16px;
+}
+
+.footer__social-icon:nth-child(2) {
+  background-image: url(../../../images/vk_color_white.svg);
+}
+
+.footer__social-icon:nth-child(3) {
+  background-image: url(../../../images/tiktok-icon.svg);
+}
+
+.footer__social-icon:hover {
+  transition: 0.5s;
+  opacity: 0.5;
+}
