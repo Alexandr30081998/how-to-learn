@@ -26,11 +26,10 @@
 
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/cards/cards.css);
-@import url(../blocks/cards/__item-description/cards__item-description.css);
-@import url(../blocks/cards/__item-title/cards__item-title.css);
+@import url(../blocks/cards/__description/cards__description.css);
+@import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__item/cards__item.css);
-@import url(../blocks/cards/__item/_margin/cards__item_margin.css);
-@import url(../blocks/cards/__item/_image/cards__item_image.css);
+@import url(../blocks/cards/__image/cards__image.css);
 
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
